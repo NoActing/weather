@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Locations</key>
+	<array>
+		<dict>
+			<key>Url</key>
+			<string>http://api.openweathermap.org/data/2.5/weather?lat=56.08&amp;lon=10.11&amp;units=metric&quot;</string>
+			<key>Longitude</key>
+			<string>10.21</string>
+			<key>Latitude</key>
+			<string>56.15</string>
+		</dict>
+		<dict>
+			<key>Url</key>
+			<string>http://api.openweathermap.org/data/2.5/weather?lat=-35.15&amp;lon=149.08&amp;units=metric&quot;</string>
+			<key>Longitude</key>
+			<string>139.68</string>
+			<key>Latitude</key>
+			<string>35.40</string>
+		</dict>
+		<dict>
+			<key>Latitude</key>
+			<string>55.45</string>
+			<key>Longitude</key>
+			<string>37.35</string>
+			<key>Url</key>
+			<string>http://api.openweathermap.org/data/2.5/weather?lat=55.45&amp;lon=37.35&amp;units=metric&quot;</string>
+		</dict>
+	</array>
+</dict>
+</plist>
